@@ -1,0 +1,8 @@
+{
+    "model": "EfficientNet",
+    "dataset": "High Quality_f2f_data",
+    "Acc": 0.6080402010050251,
+    "F1-score": 0.6320754716981132,
+    "Precision": 0.5955555555555555,
+    "Recall": 0.6733668341708543
+}

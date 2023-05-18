@@ -1,0 +1,8 @@
+{
+    "model": "Xception",
+    "dataset": "Low Quality_nt_data",
+    "Acc": 0.5804020100502513,
+    "F1-score": 0.6052009456264775,
+    "Precision": 0.5714285714285714,
+    "Recall": 0.6432160804020101
+}
