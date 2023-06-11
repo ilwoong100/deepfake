@@ -1,0 +1,8 @@
+{
+    "model": "efficient_b0",
+    "dataset": "low Quality_f2f_data",
+    "Acc": 0.5,
+    "F1-score": 0.6542056074766356,
+    "Precision": 0.49295774647887325,
+    "Recall": 0.9722222222222222
+}

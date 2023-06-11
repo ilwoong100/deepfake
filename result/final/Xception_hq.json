@@ -1,0 +1,8 @@
+{
+    "model": "Xception",
+    "dataset": "High Quality_f2f_data",
+    "Acc": 0.4864864864864865,
+    "F1-score": 0.6346153846153846,
+    "Precision": 0.4852941176470588,
+    "Recall": 0.9166666666666666
+}
